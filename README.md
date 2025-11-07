@@ -11,6 +11,12 @@ El proyecto fue creado con **express-generator** y utiliza **EJS** como motor de
 
 ## Funcionalidad
 
+Ejecucion 
+
+```bash
+npm start
+localhost:3000
+```
 ###  Página principal (`/`)
 - Muestra una lista de imágenes cargadas dinámicamente desde el servidor.
 - Cada elemento incluye un nombre y una imagen.
