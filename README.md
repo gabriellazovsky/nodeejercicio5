@@ -11,19 +11,19 @@ El proyecto fue creado con **express-generator** y utiliza **EJS** como motor de
 
 ## ⚙️ Funcionalidad
 
-### 🖼 Página principal (`/`)
+###  Página principal (`/`)
 - Muestra una lista de imágenes cargadas dinámicamente desde el servidor.
 - Cada elemento incluye un nombre y una imagen.
 - Incluye un botón que redirige a la página de **login**.
 
-### 🔐 Página de login (`/login`)
+###  Página de login (`/login`)
 - Contiene un formulario con campos de usuario y contraseña.
 - No valida credenciales (versión básica).
 - Incluye un enlace para volver a la página principal.
 
 ---
 
-## 🧠 Tecnologías usadas
+##  Tecnologías usadas
 - **Node.js**
 - **Express**
 - **EJS**
@@ -32,5 +32,5 @@ El proyecto fue creado con **express-generator** y utiliza **EJS** como motor de
 
 ---
 
-## 🏗️ Estructura del proyecto
+##  Estructura del proyecto
 
